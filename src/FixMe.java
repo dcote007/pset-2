@@ -6,5 +6,5 @@ public class FixMe{
         System.out.println("algorithms to process data and discover new information, the analysis of potential");
         System.out.println("solutions, and the ethical and social implications of computing systems. The course");
         System.out.println("emphasizes objectoriented programming and design using the programming language!");
-}
+	}
 }
